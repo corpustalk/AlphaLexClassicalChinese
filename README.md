@@ -9,7 +9,11 @@ This is the repository for the tool **AlphaLexClassicalChinese**, that automatic
 
 # How to use AlphaLexClassicalChinese
 
-##  
+## Step 1
+
+
+
+## Step 2
 
 ## For Mac users
 
