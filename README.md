@@ -7,6 +7,10 @@ This is the repository for **AlphaLexClassicalChinese**, a tool that automatical
 
 [Lei, Lei & Wei, Yaoyu. (2025). Lexical Complexity in Classical Chinese: A Framework of Indices and a Measurement Tool. _Technology Enhanced Foreign Language Education_, (6), 18–25. ]
 
+## Download
+
+See Releases of this repository on the right side of the page. 
+
 # How to use AlphaLexClassicalChinese
 
 ## Step 1
