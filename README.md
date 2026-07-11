@@ -13,9 +13,9 @@ This is the repository for **AlphaLexClassicalChinese**, a tool that automatical
 
 You need to first parse your Classical Chinese texts with a Yasuoka BERT model. See the files for the methods. 
 
-Showcase_parsing_Classical_Chinese_with_Yasuoka_models.ipynb
-
-Showcase_parsing_Classical_Chinese_with_Yasuoka_models.pdf
+  - Showcase_parsing_Classical_Chinese_with_Yasuoka_models.ipynb
+  
+  - Showcase_parsing_Classical_Chinese_with_Yasuoka_models.pdf
 
 Save your parsed texts as .csv files.  
 
@@ -25,6 +25,8 @@ Open AlphaLexClassicalChinese.app, load a parsed text or a folder of many parsed
 
 ## For Mac users
 
-After you have downloaded AlphaLexClassicalChinese.dmg, double click it, and move AlphaLexClassicalChinese.app to the Applications folder. Then, open terminal, to go to the Applications folder, and type and run the following command in terminal. Then open AlphaLexClassicalChinese.app and play with it. 
+1. After you have downloaded AlphaLexClassicalChinese.dmg, double click it, and move AlphaLexClassicalChinese.app to the Applications folder.
+2. Open terminal, go to the Applications folder, and type and run the following command in terminal.
+3. Then open AlphaLexClassicalChinese.app and play with it. 
 
 `sudo xattr -cr /Applications/AlphaLexClassicalChinese.app`
