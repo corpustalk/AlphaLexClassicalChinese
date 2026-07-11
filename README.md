@@ -11,12 +11,20 @@ This is the repository for the tool **AlphaLexClassicalChinese**, that automatic
 
 ## Step 1
 
+You need to first parse your Classical Chinese texts with a Yasuoka BERT model. See the files for the methods. 
 
+Showcase_parsing_Classical_Chinese_with_Yasuoka_models.ipynb
+
+Showcase_parsing_Classical_Chinese_with_Yasuoka_models.pdf
+
+Save your parsed texts as .csv files.  
 
 ## Step 2
 
+Open AlphaLexClassicalChinese.app, load a parsed text or a folder of many parsed texts, and calculate the lexical complexity of the text/s. 
+
 ## For Mac users
 
-After installing ALCC, please type and run the following command in terminal, and then open and play with ALCC. 
+After you have downloaded AlphaLexClassicalChinese.dmg, double click it, and move AlphaLexClassicalChinese.app to the Applications folder. Then, open terminal, to go to the Applications folder, and type and run the following command in terminal. Then open AlphaLexClassicalChinese.app and play with it. 
 
 `sudo xattr -cr /Applications/AlphaLexClassicalChinese.app`
