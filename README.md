@@ -1,7 +1,7 @@
 
 # AlphaLexClassicalChinese
 
-This is the repository for the tool **AlphaLexClassicalChinese**, that automatically calculates the lexical complexity of Classical Chinese texts as described in the article below: 
+This is the repository for **AlphaLexClassicalChinese**, a tool that automatically calculates the lexical complexity of Classical Chinese texts as described in the article below: 
 
 雷蕾、韦瑶瑜. (2025). 古代汉语词汇复杂度：指标体系与测量工具. 外语电化教学, (6), 18–25.
 
