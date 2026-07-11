@@ -11,6 +11,13 @@ This is the repository for **AlphaLexClassicalChinese**, a tool that automatical
 
 See Releases of this repository on the right side of the page. 
 
+## Copyright
+
+AlphaLexClassicalChinese is designed by Lei Lei, and developed by Lei Lei (Shanghai International Studies University) and Haobo Zhang (Shanghai International Studies University). 
+
+Contact: leilei@qq.com
+
+
 # How to use AlphaLexClassicalChinese
 
 ## Step 1
