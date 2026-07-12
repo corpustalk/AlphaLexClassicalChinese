@@ -17,6 +17,10 @@ You can also take a look at **AlphaLexChinese** at:
 
 https://github.com/corpustalk/AlphaLexChinese
 
+It has also been used in studies such as the one below:
+
+雷蕾、韦瑶瑜. (2026). 基于语言复杂度权衡假说的古代汉语词汇历时演变研究. 日语学习与研究, (2), 105–115.
+
 ## Download
 
 See Releases of this repository on the right side of the page. 
@@ -60,4 +64,7 @@ If you use AlphaLexClassicalChinese, please kindly cite our articles:
 - [Lei, Lei & Wei, Yaoyu. (2025). Lexical Complexity in Classical Chinese: A Framework of Indices and a Measurement Tool. _Technology Enhanced Foreign Language Education_, (6), 18–25. ]
 
 - Zhang, H., & Lei, L. (2025). AlphaLexChinese: Measuring lexical complexity in Chinese texts and its predictive validity for L2 writing scores. _System_, 103809. https://doi.org/10.1016/j.system.2025.103809
+
+- 雷蕾、韦瑶瑜. (2026). 基于语言复杂度权衡假说的古代汉语词汇历时演变研究. 日语学习与研究, (2), 105–115.
+
 
