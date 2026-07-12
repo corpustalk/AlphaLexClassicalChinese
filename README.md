@@ -7,7 +7,9 @@ This is the repository for **AlphaLexClassicalChinese**, a tool that automatical
 
 [Lei, Lei & Wei, Yaoyu. (2025). Lexical Complexity in Classical Chinese: A Framework of Indices and a Measurement Tool. _Technology Enhanced Foreign Language Education_, (6), 18–25. ]
 
-雷蕾 & 韦瑶瑜 (2025) is an extension to **AlphaLexChinese**, which is a tool that automatically calculates the lexical complexity of Chinese texts and described in detail in the article below: 
+<img width="2712" height="1976" alt="image" src="https://github.com/user-attachments/assets/5415c4cd-07e0-465f-b5cb-bec5b469ba82" />
+
+AlphaLexClassicalChinese is an extension to **AlphaLexChinese**, which is a tool that automatically calculates the lexical complexity of Chinese texts and described in detail in the article below: 
 
 Zhang, H., & Lei, L. (2025). AlphaLexChinese: Measuring lexical complexity in Chinese texts and its predictive validity for L2 writing scores. System, 103809. https://doi.org/10.1016/j.system.2025.103809
 
