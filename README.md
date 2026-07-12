@@ -21,6 +21,8 @@ It has also been used in studies such as the one below:
 
 雷蕾、韦瑶瑜. (2026). 基于语言复杂度权衡假说的古代汉语词汇历时演变研究. 日语学习与研究, (2), 105–115.
 
+[Lei, Lei & Wei, Yaoyu. (2026). The Historical Evolution of Lexical Complexity in Classical Chinese:  A Trade-off Perspective. _Journal of Japanese Language Study and Research_. (2), 105-115. ]
+
 ## Download
 
 See Releases of this repository on the right side of the page. 
@@ -67,4 +69,4 @@ If you use AlphaLexClassicalChinese, please kindly cite our articles:
 
 - 雷蕾、韦瑶瑜. (2026). 基于语言复杂度权衡假说的古代汉语词汇历时演变研究. 日语学习与研究, (2), 105–115.
 
-
+- [Lei, Lei & Wei, Yaoyu. (2026). The Historical Evolution of Lexical Complexity in Classical Chinese:  A Trade-off Perspective. _Journal of Japanese Language Study and Research_. (2), 105-115. ]
